@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(16, 19, 20);
+}
+#Reset{
+    border-radius: 20px;
+    background-color: aqua;
+    border: none;
+    font-family:'Courier New', Courier, monospace;
+    height: 40px;
+    width: 120px;
+}
+#Start{
+    border-radius: 20px;
+    background-color: rgb(8, 246, 20);
+    border: none;
+    font-family:'Courier New', Courier, monospace;
+    height: 40px;
+    width: 120px;
+}
+
+button{
+    font-size: 20px;
+}
+#time{
+    font-size:400%;
+    color: aliceblue;
+    text-shadow: 5px; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+    padding: 150px 15px;
+    text-align: center;
+}
+h1{
+    color:azure;
+}
+p{
+    color:azure;
+    text-align: center;
+}

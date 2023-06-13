@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(16, 19, 20);
+}
+
+p,h1{
+    color:azure;
+    text-align: center;
+}
+
+#container{
+    margin: 100px 300px 0% 300px; 
+    text-align: center;
+} 
+
+#input{
+    border-radius: 10px;
+    background-color:white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 1px;
+    text-align: center;
+    box-shadow: 0 0 20px 5px gray;
+} 
+#result{
+    border-radius: 10px;
+    background-color:rgb(16, 19, 20);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-align: center;
+    color: rgb(16, 19, 20);
+}
+
+
+#input{
+    border-color: rgb(16, 19, 20);
+}
+#check,#Start{
+    border-color: rgb(16, 19, 20);
+    background-color: rgb(16, 19, 20);
+    border-radius: 5px;
+    color: aliceblue;
+}
